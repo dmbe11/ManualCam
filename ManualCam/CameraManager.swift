@@ -8,8 +8,10 @@ import Foundation
 import AVFoundation
 import SwiftUI
 import Photos
+import Combine
 
 class CameraManager: NSObject, ObservableObject {
+
     
     // MARK: - Session
     let session = AVCaptureSession()
@@ -393,3 +395,4 @@ extension CameraManager: AVCapturePhotoCaptureDelegate {
         }
     }
 }
+

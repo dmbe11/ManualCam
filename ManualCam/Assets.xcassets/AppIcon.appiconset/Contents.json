@@ -1,7 +1,6 @@
 {
   "images" : [
     {
-      "filename" : "k1000VFBlank.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +12,6 @@
           "value" : "dark"
         }
       ],
-      "filename" : "k1000Big.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -25,7 +23,6 @@
           "value" : "tinted"
         }
       ],
-      "filename" : "extk1000.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
